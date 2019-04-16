@@ -1,0 +1,25 @@
+{
+    "name": "liri-master",
+    "dependencies": {
+        "node-spotify-api": "^1.0.7",
+        "request": "^2.83.0",
+        "twitter": "^1.7.1"
+    },
+    "description": "### About",
+    "version": "1.0.0",
+    "main": "keys.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/syoeung/liri-node-app.git"
+    },
+    "bugs": {
+        "url": "https://github.com/syoeung/liri-node-app/issues"
+    },
+    "homepage": "https://github.com/syoeung/liri-node-app#readme"
+}
