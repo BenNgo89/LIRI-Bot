@@ -16,10 +16,10 @@
     "devDependencies": {},
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/syoeung/liri-node-app.git"
+        "url": "git+https://github.com/ben_ngo89/liri-node-app.git"
     },
     "bugs": {
-        "url": "https://github.com/syoeung/liri-node-app/issues"
+        "url": "https://github.com/ben_ngo89/liri-node-app/issues"
     },
-    "homepage": "https://github.com/syoeung/liri-node-app#readme"
+    "homepage": "https://github.com/ben_ngo89/liri-node-app#readme"
 }
